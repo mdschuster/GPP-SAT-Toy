@@ -1,0 +1,4 @@
+Window GPP-SAT-Toy 1280 800
+Font assets/Orbitron.ttf 18 1.0 1.0 1.0
+Rectangle A 400 400 1.5 1 0.21 0.0 0.45 0.7 200 200
+Rectangle B 800 200 -2 2.5 -0.5 0.6 0.2 0.2 100 100
